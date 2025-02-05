@@ -1,5 +1,5 @@
 # Compass-WP-Docker-AWS
-Segunda atividade prática do programa de bolstas da Compass.
+Segunda atividade prática do programa de bolsas de DevSecOps da CompassUOL.
 
 
 ## Descrição do projeto 
